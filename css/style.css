@@ -580,4 +580,13 @@ footer {
     #get-the-game .item-store .left img {
         width: 300px;
     }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    #multiplayer {
+        background-position: -450px -10px;
+        height: 650px;
+    }
 }
