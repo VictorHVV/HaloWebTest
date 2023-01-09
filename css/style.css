@@ -575,3 +575,9 @@ footer {
     }
 
 }
+
+@media screen and (max-width:452px) {
+    #get-the-game .item-store .left img {
+        width: 300px;
+    }
+}
